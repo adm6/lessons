@@ -1,0 +1,33 @@
+Topshiriqlar:
+
+
+1. 3200 va 4300 orasidagi barcha ham 7 ga ham 9 ga  qoldiqsiz bo'linadigan toq sonlarni toping.
+
+
+2. n raqamni kiritish va 0 dan n gacha bo'lgan  sonlar orasidagi barcha oxiri 5 bilan tugaydigan sonlarni topish. Masalan: 15, 75, 185 va h.k.
+
+
+3. a va b raqamlarni kiritishni so'rash.
+a dan katta va b dan kichkina sonlar orasidan o'zaro yig'indisi b ga teng bo'lgan barcha raqamlarni topish.
+
+
+4. n sonini kiritishni so'rash. Noldan n sonigacha bo'lgan har bir raqamni olib, noldan shu raqamgacha bo'lgan sonlar yig'indisini ekranga chiqaring.
+Masalan:
+n = 6 bo'lsa:
+0 uchun 0
+1 uchun 0
+2 uchun 1 (0+1)
+3 uchun 3 (0+1+2)
+4 uchun 6 (0+1+2+3)
+5 uchun 10 (0+1+2+3+4)
+
+Ekranga quyidagi ko'rinishda chiqsa bo'ldi:
+0: 0
+1: 0
+2: 1
+3: 3
+4: 6
+5: 10
+
+
+5. 0 dan 220 gacha bo'lgan oraliqdagi barcha Fibonachchi sonlarini toping.
