@@ -1,0 +1,56 @@
+1. Satr kiritishni so'rash va kiritilgan satrda
+nechta raqam borligini aniqlash dasturini tuzing.
+count() funksiyasini ishlatmasdan.
+Masalan: satr "abc12gg8_#$%72"
+javob: satrda 5 ta raqam bor.
+
+
+2. raqam kiritishni so'rash va har safar keyingi raqam
+kiritilganda barcha kiritilgan raqamlar yig'indisini ekranga
+chiqarish. Raqamlar yig'indisi 100 dan oshganda dastur
+tugallanishi kerak.
+
+
+3. Kiritilgan raqamni kvadratini ekranga chiqarish dasturini
+tuzing. Dastur to'xtovsiz ishlashi kerak. Har safar yangi
+raqam kiritilganda uni kvadratini ekranga chiqarsin.
+
+
+4. Satr kiritishni so'rash va shu satrda ishtirok etgan
+elementlarni yangi listga alohida elementlar sifatida
+kirgizish. Bitta element faqat bir marta kiritilishi kerak.
+Masalan:
+agar satr = "abbccc44445?! *-+++" bo'lsa:
+list = "abc45?! *-+"
+
+
+5. Satr kiritishni so'rash va kiritilgan satrda bir martadan
+ko'p ishtirok etgan elementlarni ekranga chiqarish.
+1. Satr kiritishni so'rash va kiritilgan satrda
+nechta raqam borligini aniqlash dasturini tuzing.
+count() funksiyasini ishlatmasdan.
+Masalan: satr "abc12gg8_#$%72"
+javob: satrda 5 ta raqam bor.
+
+
+2. raqam kiritishni so'rash va har safar keyingi raqam
+kiritilganda barcha kiritilgan raqamlar yig'indisini ekranga
+chiqarish. Raqamlar yig'indisi 100 dan oshganda dastur
+tugallanishi kerak.
+
+
+3. Kiritilgan raqamni kvadratini ekranga chiqarish dasturini
+tuzing. Dastur to'xtovsiz ishlashi kerak. Har safar yangi
+raqam kiritilganda uni kvadratini ekranga chiqarsin.
+
+
+4. Satr kiritishni so'rash va shu satrda ishtirok etgan
+elementlarni yangi listga alohida elementlar sifatida
+kirgizish. Bitta element faqat bir marta kiritilishi kerak.
+Masalan:
+agar satr = "abbccc44445?! *-+++" bo'lsa:
+list = "abc45?! *-+"
+
+
+5. Satr kiritishni so'rash va kiritilgan satrda bir martadan
+ko'p ishtirok etgan elementlarni ekranga chiqarish.
