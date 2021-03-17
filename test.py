@@ -1,7 +1,6 @@
-a = 'abz'
-b = 'abcd'
-c = 'abd'
+for i in range(300):
+    print(chr(i))
 
-print(a>b)
-print(a>c)
-print(b>c)
+print(ord('Ç'))
+print(chr(199))
+print(ord("Ç"))

@@ -8,5 +8,4 @@ def raqam_olish():
 
 
 x = raqam_olish()
-x = x + 10
 print(x)

@@ -1,12 +1,12 @@
 def unlilar_soni(txt):
     unlilar = ['a', 'e', 'i', 'o', 'u']
-    unlilar_soni = 0
+    unli_soni = 0
 
     for i in txt:
         if i in unlilar:
-            unlilar_soni = unlilar_soni + 1
+            unli_soni += 1
 
-    return unlilar_soni
+    return unli_soni
 
 
 satr = input('Satr kiriting: ')
