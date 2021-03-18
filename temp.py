@@ -1,10 +1,10 @@
-x = int(input('son kiriting: '))
-x_tub_sonmi = True
-for i in range(2, x):
-    if x % i == 0:
-        x_tub_sonmi = False
+i = 9999999
+while True:
+    i = i + 1
+    tub_son = True
+    for k in range(2, i):
+        if i % k == 0:
+            tub_son = False
 
-if x_tub_sonmi:
-    print('x tub son')
-else:
-    print('x tub son emas')
+    if tub_son:
+        print(i)
